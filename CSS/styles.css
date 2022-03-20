@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'VT323', monospace;   
+
+}
+.main-container
+{
+    background-image: url(../assets/fondo.png);
+    /* ctl + espacio para ver opcioones */
+    height: 100vh; 
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    font-size: 26px;
+    
+}
+
+.parrafo
+{
+    margin-left: 7vw;
+    margin-top: 30vh;
+    position: absolute;
+}
+
+.parrafo2
+{
+    margin-left: 7vw;
+    margin-top: 33vh;
+    position: absolute;
+}
+.entrada{
+    
+    margin-left: 7vw;
+    margin-top: 39vh;
+    position: absolute;
+
+
+}
+.pos-img{
+
+    margin-left: 15vw;
+    margin-top: 39vh;
+    position: absolute;
+    
+    
+}
+.experiencia{
+    margin-left: 12vw;
+    margin-top: 54vh;
+    position: absolute;
+    
+}
+.boton{
+    margin-left: 12vw;
+    margin-top: 71vh;
+    position: absolute;
+    
+}
+.peso
+{
+    margin-left: 17vw;
+    margin-top: 34vh;
+    position: absolute;
+   
+}
+.altura{
+    margin-left: 7vw;
+    margin-top: 9vh;
+    position: absolute;
+    
+}
+.nombre{
+    margin-top: 22vh;
+    margin-left: 17vw;
+    position: absolute;
+    
+}
+.numero{
+    margin-top: 48vh;
+    margin-left: 13vw;
+    position: absolute;
+
+}
+.tipo0{
+    margin-top: 46vh;
+    margin-left: 6.5vw;
+    position: absolute;
+}
+.tipo1{
+    margin-top: 25.5vh;
+    margin-left: 7vw;
+    position:absolute;
+    
+}
+.tipo2{
+    margin-top: 25.5vh;
+    margin-left: 13vw;
+    position: absolute;      
+    
+}
+.apodo{
+    margin-top: 60vh;
+    margin-left: 7vw;
+    position: absolute;
+    color: rgb(245, 242, 254);
+}
+
+.info
+{    
+    margin-top: 38vh;
+    margin-left: 5vw;
+    font-size: 23px;
+    
+}
+    
