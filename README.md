@@ -3,7 +3,7 @@ Practica del modulo 4 de LAUNCHX , el tema : JS
 
 
 
-En esta practica ponemos en practica los conocimientos adquiridos de JS en el curso de LAUNCHX La practica consiste en crear un pokedex con html, css y js. Y utilzar js para acceder a la poke api ([Link Pokeapi](https://pokeapi.co/)) para acceder a las distintas características de cada pokemon. El usuario deberá ingresar el nombre o número de pokemón en un input de texto, habrá un botón de buscar y cuando el usuario de click, se deberá desplegar toda la información del pokemón ingresado.
+En esta practica ponemos en practica los conocimientos adquiridos de JS en el curso de LAUNCHX. La practica consiste en crear un pokedex con html, css y js. Y utilzar js para acceder a la poke api ([Link Pokeapi](https://pokeapi.co/)) para acceder a las distintas características de cada pokemon. El usuario deberá ingresar el nombre o número de pokemón en un input de texto, habrá un botón de buscar y cuando el usuario de click, se deberá desplegar toda la información del pokemón ingresado.
 
 Link de la página desplegada en Github pages --->>> [LINK](https://robertoperedo.github.io/PracticaJS/)
 
