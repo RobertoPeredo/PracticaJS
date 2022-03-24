@@ -2,9 +2,9 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'VT323', monospace;   
-
+    font-family: 'VT323', monospace;  
 }
+
 .main-container
 {
     background-image: url(../assets/fondo1.png);
@@ -13,7 +13,6 @@
     background-size: cover;
     background-position: center;
     font-size: 26px;    
-    
 }
 
 .pantallaimagen {
@@ -23,9 +22,8 @@
     min-width: 450px; 
     max-height: 1000px;
     max-width: 381px;
-  
-  
   }
+
   .pantallaimagen2 {
    
     padding: 0;
@@ -80,7 +78,7 @@
     
 }
 
-/* derecha */
+
 .info
 {    
     margin-top: 48%;
@@ -106,10 +104,7 @@
 }
 .posicion-tipo{
     margin-top: -7%;
-    margin-left: 5%;
-    
-          
-    
+    margin-left: 5%; 
 }
 
 
