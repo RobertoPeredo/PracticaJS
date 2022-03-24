@@ -1,117 +1,116 @@
+
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     font-family: 'VT323', monospace;   
 
 }
 .main-container
 {
-    background-image: url(../assets/fondo.png);
+    background-image: url(../assets/fondo1.png);
     /* ctl + espacio para ver opcioones */
     height: 100vh; 
-    width: 100vw;
     background-size: cover;
     background-position: center;
-    font-size: 26px;
+    font-size: 26px;    
     
 }
 
-.parrafo
-{
-    margin-left: 7vw;
-    margin-top: 30vh;
-    position: absolute;
-}
-
-.parrafo2
-{
-    margin-left: 7vw;
-    margin-top: 33vh;
-    position: absolute;
-}
-.entrada{
-    
-    margin-left: 7vw;
-    margin-top: 39vh;
-    position: absolute;
-
-
-}
-.pos-img{
-
-    margin-left: 15vw;
-    margin-top: 39vh;
-    position: absolute;
-    
-    
-}
-.experiencia{
-    margin-left: 12vw;
-    margin-top: 54vh;
-    position: absolute;
-    
-}
-.boton{
-    margin-left: 12vw;
-    margin-top: 71vh;
-    position: absolute;
-    
-}
-.peso
-{
-    margin-left: 17vw;
-    margin-top: 34vh;
-    position: absolute;
+.pantallaimagen {
    
-}
-.altura{
-    margin-left: 7vw;
-    margin-top: 9vh;
-    position: absolute;
+    padding: 0;
+    min-height: 650px;
+    min-width: 450px; 
+    max-height: 1000px;
+    max-width: 381px;
+  
+  
+  }
+  .pantallaimagen2 {
+   
+    padding: 0;
+    min-height: 650px;
+    min-width: 100px; 
+    max-height: 1000px;
+    max-width: 400px;
     
+  
+  }
+  .pokePantalla {
+    background-image: url("../assets/pokedex_izq.png");
+    scale: 0.95;
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size: cover;
+    
+  }
+  .pokePantalla2 {
+    background-image: url("../assets/pokedex_der.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    scale: 0.95;
+    
+  }
+
+  .pos-img{
+      width: 150px;
+      height: 149px;
+    margin-left: 27%;
+    margin-top: -3%;
+    overflow: hidden;
 }
 .nombre{
-    margin-top: 22vh;
-    margin-left: 17vw;
-    position: absolute;
+    margin-top:36%;
+    margin-left: -10%;
+    
     
 }
 .numero{
-    margin-top: 48vh;
-    margin-left: 13vw;
-    position: absolute;
+    margin-top: 4%;
+    margin-left: -15%;
+    
 
 }
-.tipo0{
-    margin-top: 46vh;
-    margin-left: 6.5vw;
-    position: absolute;
-}
-.tipo1{
-    margin-top: 25.5vh;
-    margin-left: 7vw;
-    position:absolute;
+.boton{
+    margin-left: -21%;
+    margin-top: 15%;
+    width: 40%;
+   
     
-}
-.tipo2{
-    margin-top: 25.5vh;
-    margin-left: 13vw;
-    position: absolute;      
-    
-}
-.apodo{
-    margin-top: 60vh;
-    margin-left: 7vw;
-    position: absolute;
-    color: rgb(245, 242, 254);
 }
 
+/* derecha */
 .info
 {    
-    margin-top: 38vh;
-    margin-left: 5vw;
-    font-size: 23px;
+    margin-top: 48%;
+    margin-left: 12%;
+     width: 350px;
+    height: 160px;
+     overflow: auto;
+     font-size: 25px;
+     
+}
+.apodo{
+    margin-top: 0;
+    margin-left: 12%;
+    font-size: 35px;
+    color: rgb(245, 242, 254);
     
 }
+.posicion-type {
+    margin-top: -5%;
+    margin-left: 12%;
     
+
+}
+.posicion-tipo{
+    margin-top: -7%;
+    margin-left: 5%;
+    
+          
+    
+}
+
+
+
